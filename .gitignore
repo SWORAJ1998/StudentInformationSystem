@@ -1,0 +1,26 @@
+
+---
+
+## ✅ Step 2: Create `.gitignore`
+
+### 📄 Content to copy:
+Create a new file named `.gitignore` (note the dot!) in your project root and paste this:
+
+```gitignore
+# Ignore class files
+*.class
+
+# Ignore bin output folder
+/bin/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore system-specific files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
