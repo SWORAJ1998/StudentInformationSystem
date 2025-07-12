@@ -1,7 +1,4 @@
 
----
-
-## ✅ Step 2: Create `.gitignore`
 
 ### 📄 Content to copy:
 Create a new file named `.gitignore` (note the dot!) in your project root and paste this:
